@@ -11,4 +11,3 @@ results = r.html.find('div[class="products"]')
 
 
 print('Results:\n' + str(results))
-#Tester
